@@ -1,6 +1,6 @@
 {
   "name": "@bijinfeng/plugin-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "@bijinfeng/plugin-request",
   "license": "MIT",
   "main": "lib/index.js",

@@ -1,6 +1,6 @@
 {
   "name": "@bijinfeng/preset-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "@bijinfeng/preset-react",
   "license": "MIT",
   "main": "lib/index.js",
